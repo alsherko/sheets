@@ -1,0 +1,22 @@
+{
+  "name": "sheets",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Sheets Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "sheets"
+  ],
+  "author": "alsherko <al.sherko@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
